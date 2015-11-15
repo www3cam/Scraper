@@ -1,0 +1,407 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ENG">
+<head>
+<title>EDGAR Search Results</title>
+<link href="/include/interactive.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="ATOM" href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000716643&amp;type=&amp;dateb=&amp;owner=exclude&amp;count=40&amp;output=atom" />
+
+</head>
+<body style="margin: 0">
+
+<!-- BEGIN BANNER -->
+<div id="headerTop">
+   <div id="Nav"><a href="http://www.sec.gov/index.htm">Home</a> | <a href="/cgi-bin/browse-edgar?action=getcurrent">Latest Filings</a> | <a href="javascript:history.back()">Previous Page</a></div>
+   <div id="seal"><a href="http://www.sec.gov/index.htm"><img src="/images/sealTop.gif" alt="SEC Seal" border="0" /></a></div>
+   <div id="secWordGraphic"><img src="/images/bannerTitle.gif" alt="SEC Banner" /></div>
+</div>
+<div id="headerBottom">
+<div id="secBetaGraphic"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000716643&amp;type=&amp;dateb=&amp;owner=exclude&amp;count=100&amp;output=xml"><img src="/images/edgar_button_usasearch.png" alt="EDGAR USA Search" style="border-style: none"/></a></div>   <div id="PageTitle">EDGAR Search Results</div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="http://www.sec.gov/">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+   <!-- START FILER DIV -->
+   <div style="margin: 15px 0 10px 0; padding: 3px; overflow: hidden; background-color: #BCD6F8;">
+      <div class="mailer">Mailing Address
+         <span class="mailerAddress">7201 METRO BLVD</span>
+         <span class="mailerAddress">
+MINNEAPOLIS MN 55439         </span>
+      </div>
+      <div class="mailer">Business Address
+         <span class="mailerAddress">7201 METRO BLVD</span>
+         <span class="mailerAddress">
+MINNEAPOLIS MN 55439         </span>
+         <span class="mailerAddress">9529477777</span>
+      </div>
+      <div class="companyInfo">
+         <span class="companyName">REGIS CORP <acronym title="Central Index Key">CIK</acronym>#: <a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000716643&amp;owner=exclude&amp;count=40">0000716643 (see all company filings)</a></span>
+         <p class="identInfo"><acronym title="Standard Industrial Code">SIC</acronym>: <a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=7200&amp;owner=exclude&amp;count=40">7200</a> - SERVICES-PERSONAL SERVICES<br />State location: <a href="/cgi-bin/browse-edgar?action=getcompany&amp;State=MN&amp;owner=exclude&amp;count=40">MN</a> | State of Inc.: <strong>MN</strong> | Fiscal Year End: 0630<br />formerly: REGIS CORPORATION (filings through 1994-02-08)<br />(Assistant Director Office: 11)<br />Get <a href="/cgi-bin/own-disp?action=getissuer&amp;CIK=0000716643"><b>insider transactions</b></a> for this <b>issuer</b>.
+</p>
+      </div>
+   </div>
+   <div style="width: 100%;">
+      <form method="GET" action="/cgi-bin/browse-edgar">
+         <input type="hidden" name="action" value="getcompany">
+         <input type="hidden" name="CIK" value="0000716643">
+         <table style="margin: 0px; background:#FFFFFF; border: 1px solid #BCD6F8; width: 100%;">
+            <tr>
+               <td>Filter Results:</td>
+               <td><label for="type">Filing Type:</label><br /><input name="type" size="10" tabindex="1" id="type" value=""></td>
+               <td><label for="prior_to">Prior to:</label> (YYYYMMDD)<br /><input name="dateb" size="10" tabindex="2" id="prior_to" value=""></td>
+               <td>Ownership?<br /><input type="radio" name="owner" value="include" id="include" tabindex="3"><label for="include">include</label><input type="radio" name="owner" value="exclude" id="exclude" checked="checked" tabindex="4"><label for="exclude">exclude</label><input type="radio" name="owner" value="only" id="only" tabindex="5"/><label for="only">only</label>
+               <td><label for="count">Limit Results Per Page</label><br />
+					 <select name="count" id="count" tabindex="6">
+                     <option value="10" >10 Entries
+                     <option value="20" >20 Entries
+                     <option value="40"  selected>40 Entries
+                     <option value="80" >80 Entries
+                     <option value="100" >100 Entries
+                  </select>
+               </td>
+               <td style="text-align: middle;"><input type="submit" value="Search"><br /><input type="submit" onClick="this.form.type.value=''" value="Show All"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+<!-- END FILER DIV -->
+   <div style="margin-top: 5px; margin-bottom: 5px;">
+      <form>
+         <table border="0" width="100%">
+            <tr>
+               <td>Items 1 - 40&nbsp;&nbsp;<a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000716643&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=0&amp;count=40&amp;output=atom"><img src="/images/rss-feed-icon-14x14.png" alt="0000716643 Filings" border="0" align="top" /> RSS Feed</a></td>
+               <td style="text-align: right;"> <input type="button" value="Next 40" onClick="parent.location='/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000716643&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=40&amp;count=40'"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+   <div id="seriesDiv" style="margin-top: 0px;">
+      <table class="tableFile2" summary="Results">
+         <tr>
+            <th width="7%" scope="col">Filings</th>
+            <th width="10%" scope="col">Format</th>
+            <th scope="col">Description</th>
+            <th width="10%" scope="col">Filing Date</th>
+            <th width="15%" scope="col">File/Film Number</th>
+         </tr>
+<tr>
+<td nowrap="nowrap">SD</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664315000019/0000716643-15-000019-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Acc-no: 0000716643-15-000019&nbsp;(34 Act)&nbsp; Size: 21 KB            </td>
+            <td>2015-05-26</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>15889157         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">10-Q</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664315000017/0000716643-15-000017-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=716643&amp;accession_number=0000716643-15-000017&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Quarterly report [Sections 13 or 15(d)]<br />Acc-no: 0000716643-15-000017&nbsp;(34 Act)&nbsp; Size: 4 MB            </td>
+            <td>2015-04-30</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>15815012         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664315000016/0000716643-15-000016-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 2.02 and 9.01
+<br />Acc-no: 0000716643-15-000016&nbsp;(34 Act)&nbsp; Size: 1 MB            </td>
+            <td>2015-04-30</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>15814976         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000089271215000272/0000892712-15-000272-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000892712-15-000272&nbsp;(34 Act)&nbsp; Size: 54 KB            </td>
+            <td>2015-02-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>15610859         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000114036115006263/0001140361-15-006263-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001140361-15-006263&nbsp;(34 Act)&nbsp; Size: 65 KB            </td>
+            <td>2015-02-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>15610847         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000031506615002287/0000315066-15-002287-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000315066-15-002287&nbsp;(34 Act)&nbsp; Size: 9 KB            </td>
+            <td>2015-02-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>15610425         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000093247115004087/0000932471-15-004087-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000932471-15-004087&nbsp;(34 Act)&nbsp; Size: 39 KB            </td>
+            <td>2015-02-10</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>15592092         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000125889715000907/0001258897-15-000907-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001258897-15-000907&nbsp;(34 Act)&nbsp; Size: 52 KB            </td>
+            <td>2015-02-05</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>15577973         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000108636415001179/0001086364-15-001179-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001086364-15-001179&nbsp;(34 Act)&nbsp; Size: 12 KB            </td>
+            <td>2015-01-29</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>15558315         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">10-Q</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664315000009/0000716643-15-000009-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=716643&amp;accession_number=0000716643-15-000009&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Quarterly report [Sections 13 or 15(d)]<br />Acc-no: 0000716643-15-000009&nbsp;(34 Act)&nbsp; Size: 4 MB            </td>
+            <td>2015-01-29</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>15556682         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664315000008/0000716643-15-000008-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 2.02 and 9.01
+<br />Acc-no: 0000716643-15-000008&nbsp;(34 Act)&nbsp; Size: 1 MB            </td>
+            <td>2015-01-29</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>15556669         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664315000002/0000716643-15-000002-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, item 5.02
+<br />Acc-no: 0000716643-15-000002&nbsp;(34 Act)&nbsp; Size: 24 KB            </td>
+            <td>2015-01-15</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>15530324         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000031506614004329/0000315066-14-004329-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000315066-14-004329&nbsp;(34 Act)&nbsp; Size: 9 KB            </td>
+            <td>2014-12-10</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>141277273         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">10-Q</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000029/0000716643-14-000029-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=716643&amp;accession_number=0000716643-14-000029&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Quarterly report [Sections 13 or 15(d)]<br />Acc-no: 0000716643-14-000029&nbsp;(34 Act)&nbsp; Size: 3 MB            </td>
+            <td>2014-11-04</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>141191010         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000027/0000716643-14-000027-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, item 2.02
+<br />Acc-no: 0000716643-14-000027&nbsp;(34 Act)&nbsp; Size: 816 KB            </td>
+            <td>2014-11-04</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>141190985         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000022/0000716643-14-000022-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, item 5.07
+<br />Acc-no: 0000716643-14-000022&nbsp;(34 Act)&nbsp; Size: 56 KB            </td>
+            <td>2014-10-29</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>141178899         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">10-K/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000020/0000716643-14-000020-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Annual report [Section 13 and 15(d), not S-K Item 405]<br />Acc-no: 0000716643-14-000020&nbsp;(34 Act)&nbsp; Size: 144 KB            </td>
+            <td>2014-09-26</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>141124674         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">DEFA14A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000110465914065562/0001104659-14-065562-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Additional definitive proxy soliciting materials and Rule 14(a)(12) material<br />Acc-no: 0001104659-14-065562&nbsp;(34 Act)&nbsp; Size: 216 KB            </td>
+            <td>2014-09-10</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>141094759         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">DEF 14A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000110465914065561/0001104659-14-065561-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Other definitive proxy statements<br />Acc-no: 0001104659-14-065561&nbsp;(34 Act)&nbsp; Size: 1 MB            </td>
+            <td>2014-09-10</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>141094751         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">10-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000018/0000716643-14-000018-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=716643&amp;accession_number=0000716643-14-000018&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Annual report [Section 13 and 15(d), not S-K Item 405]<br />Acc-no: 0000716643-14-000018&nbsp;(34 Act)&nbsp; Size: 18 MB            </td>
+            <td>2014-08-26</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>141063695         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000016/0000716643-14-000016-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 2.02 and 9.01
+<br />Acc-no: 0000716643-14-000016&nbsp;(34 Act)&nbsp; Size: 1 MB            </td>
+            <td>2014-08-26</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>141063667         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13D/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000106299314005178/0001062993-14-005178-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>General statement of acquisition of beneficial ownership<br />Acc-no: 0001062993-14-005178&nbsp;(34 Act)&nbsp; Size: 28 KB            </td>
+            <td>2014-08-22</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>141060289         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13D/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000092189514001572/0000921895-14-001572-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>General statement of acquisition of beneficial ownership<br />Acc-no: 0000921895-14-001572&nbsp;(34 Act)&nbsp; Size: 277 KB            </td>
+            <td>2014-07-17</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14981114         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000089271214000468/0000892712-14-000468-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000892712-14-000468&nbsp;(34 Act)&nbsp; Size: 52 KB            </td>
+            <td>2014-06-06</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14895470         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SD</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000012/0000716643-14-000012-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Acc-no: 0000716643-14-000012&nbsp;(34 Act)&nbsp; Size: 20 KB            </td>
+            <td>2014-05-28</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>14873200         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">UPLOAD</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000000000014022782/0000000000-14-022782-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Cover]</b>SEC-generated letter<br />Acc-no: 0000000000-14-022782 Size: 133 KB            </td>
+            <td>2014-05-05</td>
+         <td></td>
+         </tr>
+<tr>
+<td nowrap="nowrap">10-Q</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000010/0000716643-14-000010-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=716643&amp;accession_number=0000716643-14-000010&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Quarterly report [Sections 13 or 15(d)]<br />Acc-no: 0000716643-14-000010&nbsp;(34 Act)&nbsp; Size: 5 MB            </td>
+            <td>2014-04-30</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>14795737         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000008/0000716643-14-000008-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 2.02 and 9.01
+<br />Acc-no: 0000716643-14-000008&nbsp;(34 Act)&nbsp; Size: 1 MB            </td>
+            <td>2014-04-30</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>14795702         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">UPLOAD</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000000000014017300/0000000000-14-017300-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Cover]</b>SEC-generated letter<br />Acc-no: 0000000000-14-017300 Size: 33 KB            </td>
+            <td>2014-04-07</td>
+         <td></td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">UPLOAD</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000000000014016858/0000000000-14-016858-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Cover]</b>SEC-generated letter<br />Acc-no: 0000000000-14-016858 Size: 52 KB            </td>
+            <td>2014-04-03</td>
+         <td></td>
+         </tr>
+<tr>
+<td nowrap="nowrap">CORRESP</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000071664314000003/0000716643-14-000003-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Cover]</b>Correspondence<br />Acc-no: 0000716643-14-000003 Size: 106 KB            </td>
+            <td>2014-03-06</td>
+         <td></td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">UPLOAD</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000000000014008684/0000000000-14-008684-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Cover]</b>SEC-generated letter<br />Acc-no: 0000000000-14-008684 Size: 165 KB            </td>
+            <td>2014-02-20</td>
+         <td></td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000031506614002477/0000315066-14-002477-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000315066-14-002477&nbsp;(34 Act)&nbsp; Size: 8 KB            </td>
+            <td>2014-02-14</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14610147         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13G</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000114036114006907/0001140361-14-006907-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001140361-14-006907&nbsp;(34 Act)&nbsp; Size: 65 KB            </td>
+            <td>2014-02-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14605235         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000003877714000116/0000038777-14-000116-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000038777-14-000116&nbsp;(34 Act)&nbsp; Size: 214 KB            </td>
+            <td>2014-02-12</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14600654         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000093247114004439/0000932471-14-004439-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000932471-14-004439&nbsp;(34 Act)&nbsp; Size: 51 KB            </td>
+            <td>2014-02-12</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14598941         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000130522714000039/0001305227-14-000039-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001305227-14-000039&nbsp;(34 Act)&nbsp; Size: 13 KB            </td>
+            <td>2014-02-10</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14589837         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000116767414000844/0001167674-14-000844-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001167674-14-000844&nbsp;(34 Act)&nbsp; Size: 52 KB            </td>
+            <td>2014-02-10</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14589117         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000114420414006534/0001144204-14-006534-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001144204-14-006534&nbsp;(34 Act)&nbsp; Size: 55 KB            </td>
+            <td>2014-02-06</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-42627&amp;owner=exclude&amp;count=40">005-42627</a><br>14579829         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">10-Q</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/716643/000144530514000189/0001445305-14-000189-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=716643&amp;accession_number=0001445305-14-000189&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Quarterly report [Sections 13 or 15(d)]<br />Acc-no: 0001445305-14-000189&nbsp;(34 Act)&nbsp; Size: 6 MB            </td>
+            <td>2014-02-03</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-12725&amp;owner=exclude&amp;count=40">001-12725</a><br>14567958         </td>
+         </tr>
+      </table>
+   </div>
+   <div style="margin-top: 5px; margin-bottom: 5px;">
+      <form>
+         <table border="0" width="100%">
+            <tr>
+               <td style="text-align: right;"> <input type="button" value="Next 40" onClick="parent.location='/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000716643&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=40&amp;count=40'"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+</div>
+
+<!-- BEGIN FOOTER -->
+<div id="footer">
+  <div class="currentURL">http://www.sec.gov/cgi-bin/browse-edgar</div>
+  <div class="links"><a href="http://www.sec.gov/index.htm">Home</a> | <a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> | <a href="javascript:history.back()">Previous Page</a></div>
+  <div class="modified">Modified 03/14/2012</div>
+</div>
+<!-- END FOOTER -->
+
+</body>
+</html>

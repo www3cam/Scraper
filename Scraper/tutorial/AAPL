@@ -1,0 +1,414 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ENG">
+<head>
+<title>EDGAR Search Results</title>
+<link href="/include/interactive.css" rel="stylesheet" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="ATOM" href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000320193&amp;type=&amp;dateb=&amp;owner=exclude&amp;count=40&amp;output=atom" />
+
+</head>
+<body style="margin: 0">
+
+<!-- BEGIN BANNER -->
+<div id="headerTop">
+   <div id="Nav"><a href="http://www.sec.gov/index.htm">Home</a> | <a href="/cgi-bin/browse-edgar?action=getcurrent">Latest Filings</a> | <a href="javascript:history.back()">Previous Page</a></div>
+   <div id="seal"><a href="http://www.sec.gov/index.htm"><img src="/images/sealTop.gif" alt="SEC Seal" border="0" /></a></div>
+   <div id="secWordGraphic"><img src="/images/bannerTitle.gif" alt="SEC Banner" /></div>
+</div>
+<div id="headerBottom">
+<div id="secBetaGraphic"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000320193&amp;type=&amp;dateb=&amp;owner=exclude&amp;count=100&amp;output=xml"><img src="/images/edgar_button_usasearch.png" alt="EDGAR USA Search" style="border-style: none"/></a></div>   <div id="PageTitle">EDGAR Search Results</div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="http://www.sec.gov/">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+   <!-- START FILER DIV -->
+   <div style="margin: 15px 0 10px 0; padding: 3px; overflow: hidden; background-color: #BCD6F8;">
+      <div class="mailer">Mailing Address
+         <span class="mailerAddress">ONE INFINITE LOOP</span>
+         <span class="mailerAddress">
+CUPERTINO CA 95014         </span>
+      </div>
+      <div class="mailer">Business Address
+         <span class="mailerAddress">ONE INFINITE LOOP</span>
+         <span class="mailerAddress">
+CUPERTINO CA 95014         </span>
+         <span class="mailerAddress">(408) 996-1010</span>
+      </div>
+      <div class="companyInfo">
+         <span class="companyName">APPLE INC <acronym title="Central Index Key">CIK</acronym>#: <a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000320193&amp;owner=exclude&amp;count=40">0000320193 (see all company filings)</a></span>
+         <p class="identInfo"><acronym title="Standard Industrial Code">SIC</acronym>: <a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=3571&amp;owner=exclude&amp;count=40">3571</a> - ELECTRONIC COMPUTERS<br />State location: <a href="/cgi-bin/browse-edgar?action=getcompany&amp;State=CA&amp;owner=exclude&amp;count=40">CA</a> | State of Inc.: <strong>CA</strong> | Fiscal Year End: 0927<br />formerly: APPLE COMPUTER INC (filings through 2007-01-04)<br />formerly: APPLE COMPUTER INC/ FA (filings through 1997-07-28)<br />(Assistant Director Office: 3)<br />Get <a href="/cgi-bin/own-disp?action=getissuer&amp;CIK=0000320193"><b>insider transactions</b></a> for this <b>issuer</b>.
+</p>
+      </div>
+   </div>
+   <div style="width: 100%;">
+      <form method="GET" action="/cgi-bin/browse-edgar">
+         <input type="hidden" name="action" value="getcompany">
+         <input type="hidden" name="CIK" value="0000320193">
+         <table style="margin: 0px; background:#FFFFFF; border: 1px solid #BCD6F8; width: 100%;">
+            <tr>
+               <td>Filter Results:</td>
+               <td><label for="type">Filing Type:</label><br /><input name="type" size="10" tabindex="1" id="type" value=""></td>
+               <td><label for="prior_to">Prior to:</label> (YYYYMMDD)<br /><input name="dateb" size="10" tabindex="2" id="prior_to" value=""></td>
+               <td>Ownership?<br /><input type="radio" name="owner" value="include" id="include" tabindex="3"><label for="include">include</label><input type="radio" name="owner" value="exclude" id="exclude" checked="checked" tabindex="4"><label for="exclude">exclude</label><input type="radio" name="owner" value="only" id="only" tabindex="5"/><label for="only">only</label>
+               <td><label for="count">Limit Results Per Page</label><br />
+					 <select name="count" id="count" tabindex="6">
+                     <option value="10" >10 Entries
+                     <option value="20" >20 Entries
+                     <option value="40"  selected>40 Entries
+                     <option value="80" >80 Entries
+                     <option value="100" >100 Entries
+                  </select>
+               </td>
+               <td style="text-align: middle;"><input type="submit" value="Search"><br /><input type="submit" onClick="this.form.type.value=''" value="Show All"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+<!-- END FILER DIV -->
+   <div style="margin-top: 5px; margin-bottom: 5px;">
+      <form>
+         <table border="0" width="100%">
+            <tr>
+               <td>Items 1 - 40&nbsp;&nbsp;<a href="/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000320193&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=0&amp;count=40&amp;output=atom"><img src="/images/rss-feed-icon-14x14.png" alt="0000320193 Filings" border="0" align="top" /> RSS Feed</a></td>
+               <td style="text-align: right;"> <input type="button" value="Next 40" onClick="parent.location='/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000320193&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=40&amp;count=40'"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+   <div id="seriesDiv" style="margin-top: 0px;">
+      <table class="tableFile2" summary="Results">
+         <tr>
+            <th width="7%" scope="col">Filings</th>
+            <th width="10%" scope="col">Format</th>
+            <th scope="col">Description</th>
+            <th width="10%" scope="col">Filing Date</th>
+            <th width="15%" scope="col">File/Film Number</th>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515186064/0001193125-15-186064-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 8.01 and 9.01
+<br />Acc-no: 0001193125-15-186064&nbsp;(34 Act)&nbsp; Size: 478 KB            </td>
+            <td>2015-05-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15859218         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">424B2</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515177428/0001193125-15-177428-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Prospectus [Rule 424(b)(2)]<br />Acc-no: 0001193125-15-177428&nbsp;(33 Act)&nbsp; Size: 447 KB            </td>
+            <td>2015-05-07</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>15843153         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">FWP</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515175208/0001193125-15-175208-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Filing under Securities Act Rules 163/433 of free writing prospectuses<br />Acc-no: 0001193125-15-175208&nbsp;(34 Act)&nbsp; Size: 57 KB            </td>
+            <td>2015-05-07</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>15838994         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">424B2</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515173308/0001193125-15-173308-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Prospectus [Rule 424(b)(2)]<br />Acc-no: 0001193125-15-173308&nbsp;(33 Act)&nbsp; Size: 422 KB            </td>
+            <td>2015-05-06</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>15835121         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">S-8</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515153187/0001193125-15-153187-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Securities to be offered to employees in employee benefit plans<br />Acc-no: 0001193125-15-153187&nbsp;(33 Act)&nbsp; Size: 65 KB            </td>
+            <td>2015-04-28</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-203698&amp;owner=exclude&amp;count=40">333-203698</a><br>15799418         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">10-Q</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515153166/0001193125-15-153166-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=320193&amp;accession_number=0001193125-15-153166&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Quarterly report [Sections 13 or 15(d)]<br />Acc-no: 0001193125-15-153166&nbsp;(34 Act)&nbsp; Size: 8 MB            </td>
+            <td>2015-04-28</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15799362         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515149607/0001193125-15-149607-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 7.01 and 9.01
+<br />Acc-no: 0001193125-15-149607&nbsp;(34 Act)&nbsp; Size: 27 KB            </td>
+            <td>2015-04-27</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15795543         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515149590/0001193125-15-149590-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 2.02 and 9.01
+<br />Acc-no: 0001193125-15-149590&nbsp;(34 Act)&nbsp; Size: 151 KB            </td>
+            <td>2015-04-27</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15795493         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000110465915019336/0001104659-15-019336-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 5.07 and 9.01
+<br />Acc-no: 0001104659-15-019336&nbsp;(34 Act)&nbsp; Size: 207 KB            </td>
+            <td>2015-03-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15697620         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SD</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515045292/0001193125-15-045292-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Acc-no: 0001193125-15-045292&nbsp;(34 Act)&nbsp; Size: 338 KB            </td>
+            <td>2015-02-12</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15601802         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000093247115003679/0000932471-15-003679-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0000932471-15-003679&nbsp;(34 Act)&nbsp; Size: 39 KB            </td>
+            <td>2015-02-10</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-33632&amp;owner=exclude&amp;count=40">005-33632</a><br>15591143         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515039270/0001193125-15-039270-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 8.01 and 9.01
+<br />Acc-no: 0001193125-15-039270&nbsp;(34 Act)&nbsp; Size: 394 KB            </td>
+            <td>2015-02-09</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15589180         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">424B2</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515031599/0001193125-15-031599-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Prospectus [Rule 424(b)(2)]<br />Acc-no: 0001193125-15-031599&nbsp;(33 Act)&nbsp; Size: 435 KB            </td>
+            <td>2015-02-03</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>15571551         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">FWP</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515030106/0001193125-15-030106-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Filing under Securities Act Rules 163/433 of free writing prospectuses<br />Acc-no: 0001193125-15-030106&nbsp;(34 Act)&nbsp; Size: 37 KB            </td>
+            <td>2015-02-03</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>15569012         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">SC 13G/A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000108636415001457/0001086364-15-001457-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Amend]</b>Statement of acquisition of beneficial ownership by individuals<br />Acc-no: 0001086364-15-001457&nbsp;(34 Act)&nbsp; Size: 13 KB            </td>
+            <td>2015-02-02</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-33632&amp;owner=exclude&amp;count=40">005-33632</a><br>15565636         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">424B2</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515028777/0001193125-15-028777-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Prospectus [Rule 424(b)(2)]<br />Acc-no: 0001193125-15-028777&nbsp;(33 Act)&nbsp; Size: 412 KB            </td>
+            <td>2015-02-02</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>15564954         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515023732/0001193125-15-023732-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=320193&amp;accession_number=0001193125-15-023732&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Current report, items 8.01 and 9.01
+<br />Acc-no: 0001193125-15-023732&nbsp;(34 Act)&nbsp; Size: 11 MB            </td>
+            <td>2015-01-28</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15555430         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">10-Q</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515023697/0001193125-15-023697-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=320193&amp;accession_number=0001193125-15-023697&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Quarterly report [Sections 13 or 15(d)]<br />Acc-no: 0001193125-15-023697&nbsp;(34 Act)&nbsp; Size: 7 MB            </td>
+            <td>2015-01-28</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15555294         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515021857/0001193125-15-021857-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 2.02 and 9.01
+<br />Acc-no: 0001193125-15-021857&nbsp;(34 Act)&nbsp; Size: 143 KB            </td>
+            <td>2015-01-27</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15552085         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">DEFA14A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515017614/0001193125-15-017614-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Additional definitive proxy soliciting materials and Rule 14(a)(12) material<br />Acc-no: 0001193125-15-017614&nbsp;(34 Act)&nbsp; Size: 865 KB            </td>
+            <td>2015-01-22</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15542585         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">DEF 14A</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312515017607/0001193125-15-017607-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Other definitive proxy statements<br />Acc-no: 0001193125-15-017607&nbsp;(34 Act)&nbsp; Size: 1 MB            </td>
+            <td>2015-01-22</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>15542570         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">NO ACT</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/999999999715000140/9999999997-15-000140-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Paper]</b>No Action Letter<br />Acc-no: 9999999997-15-000140&nbsp;(34 Act)&nbsp; Size: 1 KB            </td>
+            <td>2014-12-30</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>14008453         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">NO ACT</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/999999999715000139/9999999997-15-000139-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Paper]</b>No Action Letter<br />Acc-no: 9999999997-15-000139&nbsp;(34 Act)&nbsp; Size: 1 KB            </td>
+            <td>2014-12-29</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>14008451         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">NO ACT</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/999999999714016001/9999999997-14-016001-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Paper]</b>No Action Letter<br />Acc-no: 9999999997-14-016001&nbsp;(34 Act)&nbsp; Size: 1 KB            </td>
+            <td>2014-12-11</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>14008711         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">NO ACT</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/999999999714015701/9999999997-14-015701-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Paper]</b>No Action Letter<br />Acc-no: 9999999997-14-015701&nbsp;(34 Act)&nbsp; Size: 1 KB            </td>
+            <td>2014-12-04</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>14008607         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">CERTNYS</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/999999999714015004/9999999997-14-015004-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" ><b>[Paper]</b>Certification by the New York Stock Exchange approving securities for listing<br />Acc-no: 9999999997-14-015004&nbsp;(34 Act)&nbsp; Size: 1 KB            </td>
+            <td>2014-11-13</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>14007839         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-A12B</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514409218/0001193125-14-409218-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Registration of securities [Section 12(b)]<br />Acc-no: 0001193125-14-409218&nbsp;(34 Act)&nbsp; Size: 18 KB            </td>
+            <td>2014-11-12</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-36743&amp;owner=exclude&amp;count=40">001-36743</a><br>141213987         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514406296/0001193125-14-406296-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 8.01 and 9.01
+<br />Acc-no: 0001193125-14-406296&nbsp;(34 Act)&nbsp; Size: 295 KB            </td>
+            <td>2014-11-10</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>141209609         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">424B2</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514398779/0001193125-14-398779-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Prospectus [Rule 424(b)(2)]<br />Acc-no: 0001193125-14-398779&nbsp;(33 Act)&nbsp; Size: 442 KB            </td>
+            <td>2014-11-05</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>141197794         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">FWP</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514395979/0001193125-14-395979-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Filing under Securities Act Rules 163/433 of free writing prospectuses<br />Acc-no: 0001193125-14-395979&nbsp;(34 Act)&nbsp; Size: 20 KB            </td>
+            <td>2014-11-04</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>141192688         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">424B2</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514394996/0001193125-14-394996-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Prospectus [Rule 424(b)(2)]<br />Acc-no: 0001193125-14-394996&nbsp;(33 Act)&nbsp; Size: 431 KB            </td>
+            <td>2014-11-04</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-188191&amp;owner=exclude&amp;count=40">333-188191</a><br>141190986         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">10-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514383437/0001193125-14-383437-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=320193&amp;accession_number=0001193125-14-383437&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Annual report [Section 13 and 15(d), not S-K Item 405]<br />Acc-no: 0001193125-14-383437&nbsp;(34 Act)&nbsp; Size: 12 MB            </td>
+            <td>2014-10-27</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>141175110         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514376361/0001193125-14-376361-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 2.02 and 9.01
+<br />Acc-no: 0001193125-14-376361&nbsp;(34 Act)&nbsp; Size: 168 KB            </td>
+            <td>2014-10-20</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>141164188         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514277193/0001193125-14-277193-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 8.01 and 9.01
+<br />Acc-no: 0001193125-14-277193&nbsp;(34 Act)&nbsp; Size: 29 KB            </td>
+            <td>2014-07-23</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>14989234         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">10-Q</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514277160/0001193125-14-277160-index.htm" id="documentsbutton">&nbsp;Documents</a>&nbsp; <a href="/cgi-bin/viewer?action=view&amp;cik=320193&amp;accession_number=0001193125-14-277160&amp;xbrl_type=v" id="interactiveDataBtn">&nbsp;Interactive Data</a></td>
+<td class="small" >Quarterly report [Sections 13 or 15(d)]<br />Acc-no: 0001193125-14-277160&nbsp;(34 Act)&nbsp; Size: 9 MB            </td>
+            <td>2014-07-23</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>14989142         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514275598/0001193125-14-275598-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 2.02 and 9.01
+<br />Acc-no: 0001193125-14-275598&nbsp;(34 Act)&nbsp; Size: 212 KB            </td>
+            <td>2014-07-22</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>14986891         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514271698/0001193125-14-271698-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, item 5.02
+<br />Acc-no: 0001193125-14-271698&nbsp;(34 Act)&nbsp; Size: 14 KB            </td>
+            <td>2014-07-17</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>14980728         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514228798/0001193125-14-228798-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, items 5.03 and 9.01
+<br />Acc-no: 0001193125-14-228798&nbsp;(34 Act)&nbsp; Size: 21 KB            </td>
+            <td>2014-06-06</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>14896955         </td>
+         </tr>
+<tr>
+<td nowrap="nowrap">8-K</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000118143114021923/0001181431-14-021923-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Current report, item 5.02
+<br />Acc-no: 0001181431-14-021923&nbsp;(34 Act)&nbsp; Size: 13 KB            </td>
+            <td>2014-05-30</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>14881425         </td>
+         </tr>
+<tr class="blueRow">
+<td nowrap="nowrap">SD</td>
+<td nowrap="nowrap"><a href="/Archives/edgar/data/320193/000119312514217311/0001193125-14-217311-index.htm" id="documentsbutton">&nbsp;Documents</a></td>
+<td class="small" >Acc-no: 0001193125-14-217311&nbsp;(34 Act)&nbsp; Size: 103 KB            </td>
+            <td>2014-05-29</td>
+            <td nowrap="nowrap"><a href="/cgi-bin/browse-edgar?action=getcompany&amp;filenum=000-10030&amp;owner=exclude&amp;count=40">000-10030</a><br>14876438         </td>
+         </tr>
+      </table>
+   </div>
+   <div style="margin-top: 5px; margin-bottom: 5px;">
+      <form>
+         <table border="0" width="100%">
+            <tr>
+               <td style="text-align: right;"> <input type="button" value="Next 40" onClick="parent.location='/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000320193&amp;type=&amp;dateb=&amp;owner=exclude&amp;start=40&amp;count=40'"></td>
+            </tr>
+         </table>
+      </form>
+   </div>
+</div>
+
+<!-- BEGIN FOOTER -->
+<div id="footer">
+  <div class="currentURL">http://www.sec.gov/cgi-bin/browse-edgar</div>
+  <div class="links"><a href="http://www.sec.gov/index.htm">Home</a> | <a href="/edgar/searchedgar/webusers.htm">Search the Next-Generation EDGAR System</a> | <a href="javascript:history.back()">Previous Page</a></div>
+  <div class="modified">Modified 03/14/2012</div>
+</div>
+<!-- END FOOTER -->
+
+</body>
+</html>
